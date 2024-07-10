@@ -40,6 +40,12 @@ NEXACLOUD is built to be user-friendly, providing an intuitive interface that ma
 ...and many more, including code architecture and reusability.
 
 ![Screenshot 2024-07-08 192314](https://github.com/hp-77/NexaCloud/assets/149194659/76734454-ded0-4a77-af81-26c6c23e0b4c)
+![Screenshot 2024-07-08 192454](https://github.com/hp-77/NexaCloud/assets/149194659/4cd29158-f0df-4674-9c06-87337405385c)
+![Screenshot 2024-07-08 193114](https://github.com/hp-77/NexaCloud/assets/149194659/79ce3041-c4ce-4714-8fc1-00234905206a)
+![Screenshot 2024-07-08 193129](https://github.com/hp-77/NexaCloud/assets/149194659/008d393c-f8fa-4ae4-bbde-54017df9639b)
+
+
+
 
 
 
